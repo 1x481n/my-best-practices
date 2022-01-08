@@ -1,3 +1,6 @@
 [submodule "work-practice"]
 	path = work-practice
 	url = git@github.com:1x481n/work-practice.git
+[submodule "php-practice"]
+	path = php-practice
+	url = git@github.com:1x481n/php-practice.git
