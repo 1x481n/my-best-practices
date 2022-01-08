@@ -4,3 +4,9 @@
 [submodule "php-practice"]
 	path = php-practice
 	url = git@github.com:1x481n/php-practice.git
+[submodule "java-practice"]
+	path = java-practice
+	url = git@github.com:1x481n/java-practice.git
+[submodule "golang-practice"]
+	path = golang-practice
+	url = git@github.com:1x481n/golang-practice.git
